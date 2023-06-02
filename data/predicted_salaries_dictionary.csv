@@ -1,0 +1,737 @@
+,Unnamed: 0,Job Title,role_code,Category,Industry,Average/Salary Per Year
+0,0,software engineer,10394,Transportation and Warehousing,Offshore Supply Vessel Services,4380000.0
+1,1,associate software engineer,926,Finance and Insurance,Investment Services,1105000.0
+6,6,financial advisor,3627,Professional Services,Management Consulting,1200000.0
+41,46,technical recruiter,11520,Technology,Internet Gaming Website,900000.0
+48,55,web developer,12240,Technology,Business Management Software Development,960000.0
+49,56,senior software engineer,9927,Engineering and Sciences,Computer or Network Security Services,2400000.0
+56,66,customer service advisor,2578,Professional Services,Marketing and Distribution Center,288000.0
+57,67,sales administrator,8862,Wholesale Trade,"Household Appliances or Consumer Electronics, Wholesale",780000.0
+60,70,customer care specialist,2474,Technology,Information Technology (IT) Systems Design or Integration,600000.0
+66,76,recruitment consultant,8421,Finance and Insurance,Financial Services,975000.0
+79,95,unit manager,12008,Education,Leadership Training and Development,3200000.0
+85,102,recruiting associate,8339,Technology,Information Technology (IT) Services,380000.0
+91,110,recruiting analyst,8336,Energy and Utilities,Metal Ore Mining,412000.0
+100,125,application support specialist,505,Finance and Insurance,Health Insurance,1200000.0
+106,131,recruiter,8331,Professional Services,Travel and Hospitality Services,1560000.0
+109,137,talent acquisition specialist,11217,Engineering and Sciences,Engineering Services,528000.0
+112,144,customer service specialist,2643,Technology,Software Development,980000.0
+113,145,sales coordinator,8895,Professional Services,Industrial Machinery and Equipment Repair and Maintenance,598000.0
+118,156,technical support representative,11599,Nonprofits,Religious Organization,720000.0
+120,162,quality assurance analyst,8182,Government,Government,800000.0
+140,199,purchasing assistant,8121,Construction,Real Estate Development,390000.0
+150,219,technical specialist,11547,Professional Services,Travel and Hospitality Services,800000.0
+151,220,quality analyst,8172,Finance and Insurance,Insurance and Financial Services,788000.0
+158,229,java developer,5677,Finance and Insurance,Insurance and Financial Services,2405000.0
+166,243,data analyst,2709,Education,Education,1300000.0
+174,257,php developer,7338,Technology,Software Services,660000.0
+177,263,technical sourcer,11546,Engineering and Sciences,Business Process Outsourcing,360000.0
+192,287,sales executive,8905,Technology,Information Technology (IT) Systems Design or Integration,864000.0
+199,296,talent acquisition director,11192,Energy and Utilities,Water Utilities,1450000.0
+201,298,recruitment manager,8444,Professional Services,Law Firm,1920000.0
+204,302,sales associate,8887,Finance and Insurance,Life Insurance,1200000.0
+215,319,procurement assistant,7620,Wholesale Trade,"Fast-moving Consumer Goods, Wholesale",766000.0
+226,336,facilities manager,3498,Health Care,Specialty Hospital,1200000.0
+227,337,assistant operations manager,711,Transportation and Warehousing,Transportation,741000.0
+229,339,facilities engineer,3494,Education,Education,500000.0
+242,353,instructional designer,5238,Finance and Insurance,Financial Services,840000.0
+250,364,sourcing associate,10513,Professional Services,Management Consulting,330000.0
+255,369,clinical operations manager,1822,Government,Public Health Department,8880000.0
+260,374,medical assistant,6610,Health Care,Hospital,250000.0
+261,378,systems analyst,11129,Professional Services,Travel Agency,1100000.0
+266,384,technical support specialist,11623,Professional Services,Technical Support Services,695000.0
+271,389,accounting assistant,140,Finance and Insurance,Property and Casualty Insurance,660000.0
+276,400,marketing assistant,6474,Engineering and Sciences,Business Process Outsourcing,380000.0
+277,401,production engineer,7763,Manufacturing,Food Manufacturing,300000.0
+291,424,administrative assistant,293,Wholesale Trade,"Fast-moving Consumer Goods, Wholesale",1100000.0
+298,433,senior recruitment consultant,9865,Media and Publishing,Media Network,636000.0
+302,437,customer service associate,2588,Health Care,Health Care,444000.0
+327,477,software developer,10366,Transportation and Warehousing,"Shipping, Transportation, Warehousing, or Logistics",1952000.0
+328,479,programmer analyst,7867,Finance and Insurance,Banking,900000.0
+346,510,graphic designer,4078,Technology,Information Technology (IT) Value Added Reseller (VAR),2000000.0
+353,525,project engineer,7922,Energy and Utilities,Gold Ore Mining,2900000.0
+360,543,case manager,1600,Finance and Insurance,Banking,552000.0
+362,548,service desk analyst,10183,Professional Services,Law Firm,600000.0
+395,596,technical support engineer,11570,Manufacturing,"Telecommunication, Computer, and Electronic Product Manufacturing",2200000.0
+416,644,application developer,463,Engineering and Sciences,Computer Hardware and Software Design,1403049.0
+419,653,recruiting specialist,8349,Finance and Insurance,Banking,580726.0
+423,659,operations manager,7013,Professional Services,Drafting Services,7200000.0
+426,662,systems developer,11143,Finance and Insurance,Financial Services,1266000.0
+427,663,information technology officer,5193,Government,Local Government,1200000.0
+434,677,reports analyst,8656,Technology,Information Technology (IT) Services,690000.0
+435,678,web designer,12238,Retail and Customer Service,"Cosmetics, Beauty Supplies or Perfume Store",552000.0
+436,681,full stack software developer,3833,Finance and Insurance,"Mortgage Lending, Loans, or Credit Products",1344600.0
+449,702,training assistant,11861,Finance and Insurance,Insurance and Financial Services,276000.0
+458,726,data entry clerk,2757,Finance and Insurance,Financial Services,364000.0
+459,728,human resources analyst,4934,Media and Publishing,Business Information Services,624000.0
+465,739,flight attendant,3720,Transportation and Warehousing,Airline or Aviation Fixed-Base Operator (FBO),900000.0
+522,837,trainer,11846,Engineering and Sciences,Business Process Outsourcing,312000.0
+527,842,president,7452,Technology,Information Technology (IT) Services,9500000.0
+528,843,treasurer,11949,Energy and Utilities,Energy or Utilities,4285714.0
+544,877,software development manager,10387,Finance and Insurance,Financial Services,2600000.0
+547,880,process automation engineer,7524,Manufacturing,Automation Original Equipment Manufacturing (OEM),600000.0
+551,884,analytics specialist,430,Technology,Telecommunications,812000.0
+568,908,sharepoint developer,10273,Technology,Information Technology (IT) Services,1383153.0
+596,946,training consultant,11866,Professional Services,Recruiting or Staffing,735000.0
+601,961,research and development engineer,8676,Manufacturing,Manufacturing,637000.0
+606,979,talent acquisition coordinator,11189,Manufacturing,Solar Photovoltaics (PV) Manufacturing,456000.0
+627,1017,executive assistant,3418,Nonprofits,Coalition for Non-Profit Organization,2000000.0
+628,1018,call center representative,1546,Professional Services,Telemarketing,912000.0
+636,1032,architectural intern,543,Professional Services,Project Management Consulting,240000.0
+638,1038,tutor,11989,Education,Tutoring,152.0
+649,1055,software tester,10473,Finance and Insurance,Banking,615000.0
+669,1098,recruiting manager,8343,Technology,Data Processing Services,1920000.0
+682,1116,billing clerk,1190,Retail and Customer Service,New Car Dealer,168576.0
+692,1142,business operations analyst,1424,Technology,Unified Communication Services,624000.0
+723,1214,analytics consultant,425,Finance and Insurance,Banking,1989950.0
+729,1223,digital marketing analyst,2994,Technology,Web Development,516000.0
+739,1240,talent acquisition consultant,11188,Professional Services,"Marketing, Advertising, and Media Management",1200000.0
+742,1246,senior talent acquisition manager,10036,Engineering and Sciences,Information Technology (IT) Consulting,2038252.0
+743,1247,talent acquisition manager,11200,Finance and Insurance,Financial Services,2000000.0
+746,1254,process technician,7596,Manufacturing,Semiconductor Chip Manufacturing,142252.0
+749,1260,business development manager,1376,Engineering and Sciences,Information Technology (IT) Consulting,2400000.0
+774,1304,secretary,9168,Transportation and Warehousing,Commercial Aviation or Airline,1104000.0
+785,1334,teacher,11301,Professional Services,Customer Service Call Center,800000.0
+802,1374,reporting analyst,8650,Professional Services,Recruiting or Staffing,576000.0
+806,1386,executive secretary,3449,Construction,Construction,903512.0
+807,1387,client relations associate,1799,Finance and Insurance,Financial Services,372000.0
+808,1390,information security specialist,5163,Finance and Insurance,Financial Transaction Processing,1725000.0
+809,1396,bank teller,1155,Finance and Insurance,Investment Banking,338000.0
+821,1423,process engineer,7538,Accommodation and Food Services,Fast Food Restaurant,650000.0
+822,1424,production analyst,7750,Finance and Insurance,Insurance Agency or Brokerage,264000.0
+825,1432,administrative aide,290,Education,"Colleges, Universities or Professional School",2376000.0
+828,1441,sap data analyst,9000,Engineering and Sciences,Biotechnology Research and Development,600000.0
+830,1446,barista,1159,Technology,Information Technology (IT) Services,133632.0
+832,1450,biomedical engineer,1197,Health Care,General Medical and Surgical Hospital,2000000.0
+838,1466,senior web developer,10114,Professional Services,Online Classified Advertisements,1950000.0
+868,1516,personnel assistant,7295,Professional Services,Computer Repair and Maintenance Services,216000.0
+896,1561,psychometrician,8094,Nonprofits,Social Services,250000.0
+911,1584,web application developer,12227,Finance and Insurance,Insurance Agency or Brokerage,734500.0
+929,1604,configuration analyst,2047,Technology,Information Technology (IT) Services,800000.0
+933,1611,freelance graphic designer,3787,Manufacturing,Printing and Imaging Solutions,10000.0
+934,1612,computer programmer,2031,"Arts, Entertainment and Recreation",Sports Team or Club,1200000.0
+936,1614,computer operator,2028,Technology,Information Technology (IT) Services,360000.0
+944,1637,managing director,6401,Finance and Insurance,Insurance and Financial Services,20000000.0
+974,1682,operations analyst,6975,Technology,Mobile Applications,800000.0
+992,1709,editor in chief,3182,"Arts, Entertainment and Recreation","Arts, Entertainment, and Recreation",672000.0
+999,1727,software engineering manager,10440,Technology,Telecommunications,3650000.0
+1000,1729,senior technical consultant,10076,Professional Services,Consulting,1790000.0
+1015,1773,data management specialist,2775,Engineering and Sciences,Information Technology (IT) Consulting,875000.0
+1021,1796,technical engineer,11488,Technology,Information Technology (IT) Services,396000.0
+1025,1802,desktop support engineer,2947,Technology,Information Technology (IT) Systems Design or Integration,606000.0
+1035,1833,marketing director,6497,Wholesale Trade,"Fast-moving Consumer Goods, Wholesale",7800000.0
+1038,1836,brand manager,1252,Engineering and Sciences,Pharmaceutical Research and Development,1550000.0
+1039,1838,account manager,85,Manufacturing,Specialty Chemical Manufacturing,1800000.0
+1062,1868,assistant brand manager,605,Manufacturing,Manufacturing,840000.0
+1065,1872,industrial designer,5121,Construction,Real Estate Development,330000.0
+1072,1880,production supervisor,7794,Manufacturing,Cigarette Manufacturing,1000000.0
+1074,1884,production associate,7756,Technology,Telecommunications,103200.0
+1083,1897,clinical dietitian,1818,Health Care,Hospital,300000.0
+1101,1915,corporate controller,2231,Transportation and Warehousing,"Shipping, Transportation, Warehousing, or Logistics",4680000.0
+1117,1931,warehouse assistant,12208,Manufacturing,Cement Manufacturing,168000.0
+1120,1935,regional sales manager,8562,Wholesale Trade,"Fast-moving Consumer Goods, Wholesale",2431000.0
+1121,1936,key account manager,5900,Manufacturing,Athletic or Sport Apparel Manufacturing,3500000.0
+1123,1938,area sales manager,565,Manufacturing,Specialty Chemical Manufacturing,2300000.0
+1162,1980,distribution supervisor,3107,Wholesale Trade,"Coffee, Wholesale",341250.0
+1164,1982,warehouse supervisor,12215,Energy and Utilities,Oil and Gas Field Services,3090000.0
+1165,1983,industrial engineer,5122,Transportation and Warehousing,Airline or Aviation Fixed-Base Operator (FBO),520000.0
+1169,1987,maintenance supervisor,6232,Energy and Utilities,Renewable Energy Power Generation,800000.0
+1171,1989,accounting associate,158,Finance and Insurance,Investment Banking,938298.0
+1204,2034,employee relations specialist,3254,Technology,Information Technology (IT) Services,420000.0
+1210,2043,plant engineer,7365,Energy and Utilities,Oil and Gas Exploration,162000.0
+1212,2045,maintenance planner,6225,Manufacturing,Pulp and Paper Manufacturing,264000.0
+1227,2065,production team leader,7800,Manufacturing,Tobacco Manufacturing,444000.0
+1245,2084,marketing manager,6509,Health Care,Health Care,3000000.0
+1246,2085,group product manager,4095,Manufacturing,Nutritional Supplement Manufacturing,3300000.0
+1247,2086,senior brand manager,9337,Retail and Customer Service,Retail,2400000.0
+1283,2128,research analyst,8669,Finance and Insurance,Securities Brokerage,1200000.0
+1304,2153,production operator,7779,Manufacturing,Cement Manufacturing,950000.0
+1318,2175,general accountant,3869,Professional Services,Hotel Management,960000.0
+1329,2186,logistics manager,6184,Manufacturing,Petroleum Lubricant Manufacturing,1320000.0
+1352,2214,category manager,1631,Technology,Telecommunications,1680000.0
+1371,2236,nutrition specialist,6849,Manufacturing,Food and Beverage Manufacturing,672000.0
+1395,2265,production assistant,7755,Media and Publishing,Publishing,2000000.0
+1407,2279,administrative director,300,Professional Services,Call Center,540000.0
+1411,2284,chemist,1719,Manufacturing,Chemical Manufacturing,400000.0
+1425,2302,engineering manager,3309,Construction,Construction,480000.0
+1434,2313,finance officer,3604,Professional Services,Consulting,1000000.0
+1453,2335,community manager,1970,Professional Services,"Marketing, Advertising, and Media Management",216000.0
+1470,2367,technical training specialist,11643,Agriculture and Forestry,Agriculture,350000.0
+1472,2373,virtual assistant,12151,Real Estate,Real Estate Property Management,426000.0
+1495,2410,executive administrative assistant,3417,Real Estate,Real Estate,480000.0
+1524,2447,quality assurance manager,8205,Finance and Insurance,Financial Services,1920000.0
+1529,2454,laboratory manager,5945,Energy and Utilities,Water Utilities,663000.0
+1540,2471,field sales executive,3567,Technology,Software Services,600000.0
+1542,2474,buyer,1500,Retail and Customer Service,"e-Commerce, Business to Consumer (B2C)",930000.0
+1547,2480,assistant auditor,601,Engineering and Sciences,Business Process Outsourcing,180000.0
+1550,2485,territory manager,11735,Wholesale Trade,"Drugs or Pharmaceuticals, Wholesale",1020000.0
+1578,2523,office assistant,6867,Technology,Information Technology (IT) Services,500000.0
+1585,2532,project management consultant,7973,Health Care,Health Care,728000.0
+1588,2535,product development manager,7686,Manufacturing,Semiconductor Manufacturing,1100000.0
+1617,2575,accounts receivable analyst,235,Wholesale Trade,"Fast-moving Consumer Goods, Wholesale",551780.0
+1644,2614,collections specialist,1918,Professional Services,Medical Billing and Collection Services,2169600.0
+1650,2620,business unit controller,1490,Manufacturing,Chemical Manufacturing,1242000.0
+1662,2635,billing supervisor,1194,Professional Services,Law Firm,667000.0
+1673,2658,marketing officer,6512,Nonprofits,Humanitarian Organization,795600.0
+1682,2667,product development specialist,7692,Technology,Telecommunications,588000.0
+1691,2681,inventory controller,5416,Manufacturing,Manufacturing,222454.0
+1693,2683,inventory analyst,5408,Retail and Customer Service,Online Store,768000.0
+1714,2706,financial analyst,3633,Retail and Customer Service,Retail,1459000.0
+1716,2708,packaging engineer,7177,Manufacturing,Food and Beverage Manufacturing,852000.0
+1725,2721,assistant product manager,718,Wholesale Trade,"Drugs or Pharmaceuticals, Wholesale",608400.0
+1730,2727,procurement manager,7647,Professional Services,Customer Service Call Center,2340000.0
+1735,2734,business development analyst,1363,Technology,Software as a Service (SaaS) Development,680000.0
+1748,2752,senior product manager,9794,Retail and Customer Service,"e-Commerce, Business to Consumer (B2C)",5000000.0
+1749,2755,associate brand manager,823,Professional Services,Consulting,780000.0
+1750,2758,media buyer,6603,Professional Services,"Marketing, Advertising, and Media Management",343200.0
+1759,2770,management accountant,6247,Construction,Construction,1200000.0
+1760,2771,senior cost accountant,9403,Manufacturing,Semiconductor Chip Manufacturing,600000.0
+1761,2774,channel sales manager,1704,Finance and Insurance,Insurance and Financial Services,2700000.0
+1776,2793,procurement specialist,7653,Professional Services,Recruiting or Staffing,780000.0
+1811,2835,procurement officer,7649,Government,Government,1500000.0
+1823,2848,business development officer,1380,Energy and Utilities,Energy or Utilities,1028400.0
+1826,2851,internal auditor,5356,Manufacturing,Food Manufacturing,1365000.0
+1838,2868,nutritionist,6850,Health Care,Hospital,349057.0
+1840,2870,social media analyst,10341,Manufacturing,Manufacturing,420000.0
+1841,2871,marketing associate,6480,"Arts, Entertainment and Recreation",Fitness Club,845000.0
+1843,2874,accounting specialist,182,Professional Services,Architectural Services,1020000.0
+1875,2917,accountant,127,Finance and Insurance,Commodity Trading,1700000.0
+1918,2977,consulting manager,2082,Technology,Software as a Service (SaaS) Development,3120000.0
+1919,2978,managing editor,6406,Media and Publishing,Television News Broadcasting,756000.0
+1952,3033,continuous improvement manager,2134,Manufacturing,Pharmaceutical Manufacturing,1900000.0
+1955,3036,senior process engineer,9770,Finance and Insurance,Banking,1435704.0
+1962,3044,finance analyst,3582,Finance and Insurance,Asset Management,1050000.0
+1963,3047,mechanic,6589,Engineering and Sciences,Third Party Logistics Services,216000.0
+1968,3053,factory manager,3513,Manufacturing,Manufacturing,1800000.0
+1970,3058,technical trainer,11638,Technology,Voice over IP Telephony (VoIP),707616.0
+1991,3090,member service representative,6635,Professional Services,Customer Service Call Center,288000.0
+2012,3117,assistant manager,639,Engineering and Sciences,Business Process Outsourcing,660000.0
+2020,3126,payroll administrator,7238,Education,Education,553800.0
+2034,3145,senior accountant,9216,Miscellaneous,"Professional, Scientific, and Technical Services",1080000.0
+2041,3162,business development specialist,1382,Finance and Insurance,Insurance and Financial Services,660000.0
+2043,3169,pharmacist,7312,Health Care,General Medical and Surgical Hospital,1070000.0
+2075,3213,cost accountant,2296,Technology,Information Technology (IT) Services,522000.0
+2076,3218,store supervisor,10845,Retail and Customer Service,Athletic or Sport Clothing Store,1080000.0
+2089,3244,training manager,11873,Engineering and Sciences,Information Technology (IT) Consulting,2600000.0
+2091,3248,information technology specialist,5203,Government,International Affairs,963000.0
+2124,3295,procurement analyst,7614,Energy and Utilities,Metal Ore Mining,1200000.0
+2129,3304,payroll specialist,7254,Professional Services,Call Center,660000.0
+2182,3363,document controller,3120,Engineering and Sciences,Engineering Services,700000.0
+2216,3402,manufacturing supervisor,6425,Manufacturing,Semiconductor Manufacturing,576000.0
+2226,3415,compensation analyst,1988,Engineering and Sciences,Business Process Outsourcing,612000.0
+2227,3418,payroll officer,7247,Retail and Customer Service,Retail,636000.0
+2231,3423,business manager,1417,Energy and Utilities,Water Utilities,1350000.0
+2243,3441,accounts receivable manager,241,Retail and Customer Service,Retail,1700000.0
+2248,3446,accounts receivable supervisor,247,Manufacturing,Manufacturing,516000.0
+2252,3451,supply chain analyst,10982,Manufacturing,Manufacturing,612000.0
+2254,3455,systems programmer,11158,Finance and Insurance,Banking,1300000.0
+2256,3459,accounts payable specialist,218,Construction,Construction,780000.0
+2258,3461,treasury assistant,11951,Construction,Real Estate Development,216000.0
+2259,3465,accounts payable analyst,203,Wholesale Trade,"Tires and Tubes, Wholesale",900000.0
+2269,3485,technical support analyst,11560,Technology,Media Streaming Services,950000.0
+2327,3552,tax specialist,11295,Engineering and Sciences,Business Process Outsourcing,600000.0
+2328,3553,content writer,2127,Retail and Customer Service,"e-Commerce, Business to Consumer (B2C)",720000.0
+2350,3584,process analyst,7503,Engineering and Sciences,Business Process Outsourcing,550000.0
+2353,3587,electronics design engineer,3218,Manufacturing,Printed Circuit Board Manufacturing,354000.0
+2363,3599,technical writer,11647,Finance and Insurance,Financial Services,807000.0
+2364,3600,technical sales engineer,11523,Manufacturing,Chemical Manufacturing,1300000.0
+2368,3604,market researcher,6444,Professional Services,"Marketing, Advertising, and Media Management",1500000.0
+2374,3610,senior audit associate,9321,Finance and Insurance,Financial Services,500000.0
+2379,3618,environmental compliance specialist,3345,Accommodation and Food Services,Food Service,360000.0
+2382,3623,inside sales representative,5231,Manufacturing,"Heating, Ventilation, and Air-Conditioning System (HVAC) Manufacturing",840000.0
+2383,3624,sales engineer,8904,Energy and Utilities,Electric Power Distribution,860000.0
+2389,3634,senior data analyst,9425,Finance and Insurance,"Mortgage Lending, Loans, or Credit Products",1440000.0
+2401,3654,payroll analyst,7239,Manufacturing,Pesticide and Other Agricultural Chemical Manufacturing,539500.0
+2412,3667,accounting clerk,164,Education,"Colleges, Universities or Professional School",360000.0
+2423,3681,test engineer,11752,Technology,Software Development,942500.0
+2427,3690,customer support representative,2680,Technology,Software as a Service (SaaS) Development,500000.0
+2428,3691,marketing analyst,6458,Manufacturing,Athletic or Sport Apparel Manufacturing,960000.0
+2437,3709,tax accountant,11278,Professional Services,Accounting Services,2400000.0
+2438,3710,tax associate,11286,Energy and Utilities,Electric Power Distribution,660000.0
+2441,3714,senior business analyst,9345,Technology,Enterprise Resource Planning (ERP) Software Development,5114104.0
+2446,3719,senior supply chain analyst,10003,Technology,Telecommunications,960000.0
+2447,3720,pricing specialist,7469,Retail and Customer Service,"Cosmetics, Beauty Supplies or Perfume Store",668400.0
+2450,3725,communications officer,1963,Wholesale Trade,"Fast-moving Consumer Goods, Wholesale",1005121.0
+2452,3729,food service worker,3738,Accommodation and Food Services,Hotel,163000.0
+2455,3733,receptionist,8317,Retail and Customer Service,Day Spa,1800000.0
+2473,3754,senior financial analyst,9494,Media and Publishing,Publishing,1235000.0
+2474,3756,staff accountant,10809,Professional Services,Consulting,480000.0
+2476,3760,administrative analyst,291,Construction,Construction,15000.0
+2478,3768,product engineer,7696,Finance and Insurance,Financial Services,1320000.0
+2479,3770,accounts receivable specialist,242,Finance and Insurance,Health Insurance,2100000.0
+2492,3791,safety officer,8846,Engineering and Sciences,Logistics Services,2400000.0
+2494,3795,component engineer,2016,Manufacturing,Semiconductor Chip Manufacturing,362400.0
+2496,3797,solutions architect,10483,Finance and Insurance,Financial Services,2760000.0
+2500,3804,assistant marketing manager,707,Transportation and Warehousing,Commercial Aviation or Airline,840000.0
+2504,3809,junior software engineer,5870,Media and Publishing,Publishing,400530.0
+2510,3817,purchasing officer,8132,Construction,"Heating, Ventilation, and Air-Conditioning (HVAC) Contractor",572496.0
+2516,3825,audit supervisor,1044,Professional Services,Tax and Audit Services,780000.0
+2526,3841,financial reporting analyst,3666,Technology,Software Services,1000000.0
+2532,3849,mechanical engineer,6593,Manufacturing,Solar Photovoltaics (PV) Manufacturing,1060416.0
+2533,3850,mechanical design engineer,6591,Manufacturing,Mining Machinery and Equipment Manufacturing,780000.0
+2540,3859,business process analyst,1443,Finance and Insurance,Financial Services,1000000.0
+2541,3860,purchaser,8112,Wholesale Trade,Wholesale Distribution,1200000.0
+2545,3867,claims representative,1771,Finance and Insurance,Health Insurance,500000.0
+2557,3884,technical account manager,11451,Engineering and Sciences,Business Process Outsourcing,1584000.0
+2572,3907,field service engineer,3569,Manufacturing,Mining Machinery and Equipment Manufacturing,600000.0
+2582,3923,inventory supervisor,5422,Retail and Customer Service,"e-Commerce, Business to Consumer (B2C)",579600.0
+2586,3933,senior counsel,9405,Energy and Utilities,Metal Ore Mining,2200000.0
+2588,3935,corporate secretary,2280,Finance and Insurance,Commercial Banking,1356000.0
+2590,3939,senior paralegal,9744,Energy and Utilities,Energy or Utilities,420000.0
+2593,3943,accounting analyst,136,Retail and Customer Service,"e-Commerce, Business to Consumer (B2C)",490000.0
+2601,3962,network security engineer,6800,Technology,Information Technology (IT) Services,665194.0
+2614,3984,design engineer,2937,Manufacturing,Semiconductor Chip Manufacturing,1510000.0
+2628,4001,customer service supervisor,2646,Health Care,Health Care,1063860.0
+2634,4009,cyber security analyst,2694,Finance and Insurance,Investment Holding Company,600000.0
+2638,4013,high school teacher,4343,Education,Public K-12 Education,272381.0
+2647,4030,logistics supervisor,6197,Finance and Insurance,Banking,648000.0
+2650,4033,logistics analyst,6174,Construction,Construction,408000.0
+2651,4034,senior buyer,9359,Manufacturing,Oil and Gas Refinement,1326000.0
+2666,4052,demand manager,2873,Retail and Customer Service,"Cosmetics, Beauty Supplies or Perfume Store",1327200.0
+2668,4054,sales analyst,8863,Wholesale Trade,"e-Commerce, Business to Business (B2B)",430000.0
+2688,4083,junior accountant,5749,Technology,Software Development,480000.0
+2698,4098,operations supervisor,7053,Finance and Insurance,Financial Services,1190000.0
+2701,4105,senior account manager,9214,Transportation and Warehousing,"Shipping, Transportation, Warehousing, or Logistics",2400000.0
+2713,4119,senior tax associate,10043,Professional Services,"Accounting, Auditing and Tax Services",480000.0
+2715,4123,help desk analyst,4321,Professional Services,Law Firm,324000.0
+2735,4159,product owner,7732,Transportation and Warehousing,"Shipping, Transportation, Warehousing, or Logistics",2667075.0
+2746,4174,general ledger accountant,3884,Construction,"Heating, Ventilation, and Air-Conditioning (HVAC) Contractor",500000.0
+2768,4201,international sales manager,5382,Miscellaneous,"Advertising, Branding, and Sales Promotions",3000000.0
+2769,4202,sales manager,8918,Finance and Insurance,Insurance and Financial Services,2700000.0
+2797,4237,tax analyst,11279,Engineering and Sciences,Business Process Outsourcing,567000.0
+2822,4269,computer technician,2036,Manufacturing,Food Manufacturing,251936.0
+2847,4305,lead business analyst,5967,Technology,Information Technology (IT) Services,600000.0
+2888,4370,global sourcing manager,4015,Manufacturing,Manufacturing,540000.0
+2906,4395,product development engineer,7684,Manufacturing,Solar Photovoltaics (PV) Manufacturing,390000.0
+2910,4400,business process manager,1455,Manufacturing,Oil and Gas Refinement,1872000.0
+2912,4403,engineering technician,3314,Engineering and Sciences,Engineering Services,432000.0
+2937,4439,compliance engineer,2008,Manufacturing,Manufacturing,408.0
+2941,4445,functional analyst,3844,Nonprofits,Humanitarian Organization,3000000.0
+2943,4447,accounting supervisor,188,Engineering and Sciences,Electronics or Electrical Engineering Design,7150000.0
+2952,4458,controls engineer,2191,Energy and Utilities,Energy or Utilities,600000.0
+2953,4459,automation engineer,1061,Professional Services,Consulting,1060486.0
+2957,4465,account supervisor,124,Professional Services,"Marketing, Advertising, and Media Management",800000.0
+2964,4486,software test analyst,10469,Technology,Information Technology (IT) Services,500000.0
+2975,4498,business consultant,1345,Technology,Telecommunications,2200000.0
+2979,4503,network engineer,6782,Energy and Utilities,Energy or Utilities,1080000.0
+3014,4558,demand planner,2875,Energy and Utilities,Oil and Gas Field Services,797000.0
+3024,4581,finance associate,3594,Energy and Utilities,Energy or Utilities,1074000.0
+3057,4624,auditor,1047,Finance and Insurance,Financial Services,700000.0
+3063,4632,senior auditor,9323,Finance and Insurance,Investment Fund,6000000.0
+3076,4655,material planner,6567,Technology,Satellite Telecommunications,600000.0
+3119,4716,program development manager,7835,Finance and Insurance,"Mortgage Lending, Loans, or Credit Products",300000.0
+3149,4771,technical services manager,11532,Agriculture and Forestry,Agriculture,1200000.0
+3155,4784,safety engineer,8844,Energy and Utilities,Renewable Energy Power Generation,600000.0
+3159,4792,accounting manager,172,Energy and Utilities,Water Treatment Products and Services,2080000.0
+3160,4793,chief accountant,1722,Health Care,Health Care,4800000.0
+3161,4794,finance manager,3603,Technology,Internet Gaming Website,4536000.0
+3180,4830,customer support engineer,2673,Wholesale Trade,"Construction and Mining (except Oil Well) Machinery and Equipment, Wholesale",360000.0
+3199,4855,project management specialist,7983,Engineering and Sciences,Business Process Outsourcing,999700.0
+3201,4857,call center agent,1543,Health Care,Hospital,300000.0
+3217,4880,manufacturing engineer,6416,Manufacturing,Automotive Manufacturing,1698000.0
+3220,4883,pricing analyst,7465,Engineering and Sciences,Biotechnology Research and Development,1000000.0
+3275,4957,systems administrator,11126,Professional Services,Payroll Services,939600.0
+3295,4982,system support engineer,11117,Technology,Internet Gaming Website,558882.0
+3298,4988,supply chain planner,11030,Manufacturing,Manufacturing,768000.0
+3305,5004,fleet supervisor,3718,Transportation and Warehousing,"Shipping, Transportation, Warehousing, or Logistics",360000.0
+3308,5008,management analyst,6249,Finance and Insurance,Banking,495000.0
+3310,5010,lead software engineer,6010,Technology,Telecommunications Software Development,2800000.0
+3312,5012,software support engineer,10465,Technology,Information Technology (IT) Services,1170000.0
+3320,5022,graphic artist,4074,Construction,Real Estate Development,520000.0
+3329,5043,webmaster,12262,Education,Post-Secondary Online Education,282000.0
+3331,5045,account executive,73,Professional Services,"Accounting, Auditing and Tax Services",3360000.0
+3335,5055,business systems analyst,1481,Energy and Utilities,Oil and Gas Exploration,1800000.0
+3343,5068,contracts manager,2172,Energy and Utilities,Energy or Utilities,1800000.0
+3346,5072,legal assistant,6104,Professional Services,Business Consulting,750000.0
+3375,5124,financial accountant,3621,Professional Services,Consulting,918000.0
+3386,5146,facility engineer,3501,Engineering and Sciences,Engineering Services,276000.0
+3425,5209,electrical design engineer,3204,Energy and Utilities,Oil and Gas Field Services,2000000.0
+3448,5245,general manager,3889,Engineering and Sciences,Logistics Services,2500000.0
+3456,5257,security engineer,9188,Media and Publishing,Publishing,1200000.0
+3466,5276,project accountant,7890,Finance and Insurance,Commodity Trading,660000.0
+3470,5285,senior technical support engineer,10088,Finance and Insurance,Financial Services,759525.0
+3504,5347,manufacturing manager,6421,Manufacturing,Manufacturing,720000.0
+3536,5403,fraud analyst,3760,Finance and Insurance,Commodity Trading,600000.0
+3542,5412,marketing executive,6499,Retail and Customer Service,Tools and Hardware Store,3120000.0
+3558,5436,risk analyst,8799,Technology,Financial Services Software Development,1068000.0
+3576,5461,production controller,7762,Finance and Insurance,Investment Banking,1300000.0
+3580,5466,senior marketing manager,9700,Accommodation and Food Services,Fast Food Restaurant,2925000.0
+3602,5491,marketing communications manager,6490,Wholesale Trade,"Fast-moving Consumer Goods, Wholesale",2014000.0
+3612,5507,sales support associate,8940,Finance and Insurance,Investment Banking,852000.0
+3633,5546,web administrator,12222,Manufacturing,Automation Original Equipment Manufacturing (OEM),636000.0
+3672,5612,freelance writer,3797,Professional Services,"Marketing, Advertising, and Media Management",150000.0
+3675,5619,information security analyst,5150,Engineering and Sciences,Information Technology (IT) Consulting,1560000.0
+3677,5622,staff engineer,10814,Manufacturing,Semiconductor Chip Manufacturing,1011304.0
+3681,5628,business development consultant,1371,Technology,Financial Services Software Development,1560000.0
+3697,5652,housekeeper,4367,Professional Services,Hospital Administration,300000.0
+3710,5681,business development executive,1372,Professional Services,Telecommunications Solutions,1800000.0
+3730,5714,visa officer,12163,Professional Services,Travel and Hospitality Services,170000.0
+3749,5753,data integrity specialist,2764,Engineering and Sciences,Business Process Outsourcing,501589.0
+3756,5760,technical coordinator,11478,Finance and Insurance,Banking,840000.0
+3758,5764,principal software engineer,7482,Technology,Information Technology (IT) Services,1075000.0
+3774,5797,billing analyst,1186,Engineering and Sciences,Computer Hardware and Software Design,673584.0
+3783,5812,paralegal,7186,Engineering and Sciences,Business Process Outsourcing,1118000.0
+3797,5844,service engineer,10201,Finance and Insurance,Financial Services,480000.0
+3800,5847,marketing communications specialist,6494,Finance and Insurance,Insurance and Financial Services,420000.0
+3830,5890,operations officer,7031,Finance and Insurance,Financial Services,3600000.0
+3834,5895,failure analysis engineer,3529,Manufacturing,Semiconductor Manufacturing,420000.0
+3850,5924,quality control analyst,8231,Manufacturing,Flour Milling,750000.0
+3854,5928,technical consultant,11468,Construction,Construction,3000000.0
+3889,5995,cost engineer,2297,Energy and Utilities,Renewable Energy Power Generation,372000.0
+3896,6006,payroll assistant,7240,Technology,Software Development,252000.0
+3899,6012,technical support technician,11629,Transportation and Warehousing,"Shipping, Transportation, Warehousing, or Logistics",198000.0
+3901,6018,staff auditor,10813,Finance and Insurance,Financial Services,300000.0
+3909,6033,compliance specialist,2012,Energy and Utilities,Support Activities for Oil and Gas Operations,1478700.0
+3920,6055,administrative officer,305,Health Care,Health Care,900000.0
+3958,6109,credit risk analyst,2404,Finance and Insurance,Banking,937500.0
+3982,6140,implementation manager,5070,Transportation and Warehousing,"Materials Handling, Warehousing, and Storage",2372400.0
+3984,6142,marketing consultant,6496,Professional Services,Consulting,960000.0
+3986,6146,customer service officer,2608,Finance and Insurance,Commercial Banking,600000.0
+4035,6212,project assistant,7895,Nonprofits,Coalition for Non-Profit Organization,424800.0
+4041,6219,supply chain manager,11025,Real Estate,Real Estate Property Management,3065476.0
+4048,6229,corporate communications manager,2225,Real Estate,Real Estate,1445000.0
+4064,6258,contract specialist,2146,Professional Services,Customer Service Call Center,840000.0
+4068,6267,legal counsel,6105,Technology,Information Technology (IT) Services,3372605.0
+4089,6301,payroll clerk,7244,Engineering and Sciences,Engineering Services,254400.0
+4141,6372,operations support specialist,7068,Finance and Insurance,Banking,1846000.0
+4148,6380,guidance counselor,4121,Transportation and Warehousing,Airport Operation,500000.0
+4169,6414,sap consultant,8997,Manufacturing,Oil and Gas Refinement,1875000.0
+4173,6420,content analyst,2116,Professional Services,Legal Research and Analysis Tools,356000.0
+4241,6520,billing administrator,1185,Technology,Telecommunications,300000.0
+4249,6531,field engineer,3543,Manufacturing,Electronic Test Equipment Manufacturing,660000.0
+4269,6558,civil engineer,1758,Professional Services,Architectural and Engineering Services,744000.0
+4272,6562,master data analyst,6547,Finance and Insurance,Financial Services,700000.0
+4285,6586,refinery operator,8501,Energy and Utilities,Oil and Gas Field Services,980000.0
+4289,6593,construction supervisor,2056,Construction,Construction,390000.0
+4301,6612,human resources advisor,4931,Energy and Utilities,Oil and Gas Field Services,540000.0
+4320,6637,chemical engineer,1718,Energy and Utilities,Energy or Utilities,840000.0
+4330,6650,organizational development specialist,7140,Media and Publishing,Media Network,426000.0
+4336,6663,customer service assistant,2586,Technology,Software Services,608160.0
+4350,6684,manager trainee,6347,Finance and Insurance,Financial Services,480000.0
+4437,6819,billing specialist,1193,Engineering and Sciences,Engineering Services,514000.0
+4447,6839,retail supervisor,8765,Retail and Customer Service,Retail,516750.0
+4450,6849,clerical assistant,1778,Education,Education,300000.0
+4498,6920,mechanical inspector,6597,Miscellaneous,"Professional, Scientific, and Technical Services",352800.0
+4527,6956,production scheduler,7790,Professional Services,Call Center,276000.0
+4579,7041,marketing specialist,6535,Manufacturing,Manufacturing,780261.0
+4638,7150,project analyst,7893,Finance and Insurance,Investment Banking,1200000.0
+4648,7161,senior electrical engineer,9463,Engineering and Sciences,Engineering Services,1420000.0
+4650,7163,operations engineer,6994,Technology,Information Technology (IT) Services,780000.0
+4670,7204,account specialist,122,Professional Services,Marketing Agency,540000.0
+4678,7214,supply chain specialist,11040,Finance and Insurance,Financial Services,720000.0
+4713,7283,tax manager,11292,Real Estate,Real Estate,1690000.0
+4732,7316,training coordinator,11867,Engineering and Sciences,Electronics or Electrical Engineering Design,580800.0
+4764,7378,documentation specialist,3128,Manufacturing,Manufacturing,600000.0
+4776,7393,junior buyer,5792,Retail and Customer Service,Grocery Store or Supermarket,300000.0
+4823,7468,teller,11720,Finance and Insurance,Private Bank,210000.0
+4825,7472,chief of staff,1738,Manufacturing,Furniture or Home Furnishing Manufacturing,1500000.0
+4897,7604,financial reporting manager,3670,Finance and Insurance,Banking,1600000.0
+4900,7607,accounts payable supervisor,227,Transportation and Warehousing,Cruise Line,1209000.0
+4936,7674,manufacturing process engineer,6422,Manufacturing,Semiconductor Chip Manufacturing,652000.0
+4952,7708,copywriter,2199,Professional Services,Recruiting or Staffing,840000.0
+4987,7771,development coordinator,2962,Government,Municipality,360000.0
+5031,7844,account director,70,Professional Services,Promotional Products,3300000.0
+5038,7856,materials specialist,6579,Retail and Customer Service,Retail,320000.0
+5053,7875,policy advisor,7395,Professional Services,Consulting,660000.0
+5059,7885,learning and development specialist,6073,Finance and Insurance,Financial Services,600000.0
+5088,7938,chemical analyst,1717,Manufacturing,Pharmaceutical Manufacturing,180000.0
+5233,8202,customer service team leader,2649,Engineering and Sciences,Computer or Network Security Services,1400000.0
+5243,8225,training & development specialist,11849,Accommodation and Food Services,Hotel,1800000.0
+5249,8235,investor relations analyst,5437,Technology,Information Technology (IT) Services,437918.0
+5282,8278,ecommerce manager,3167,Manufacturing,Manufacturing,760000.0
+5283,8280,customer service manager,2601,Retail and Customer Service,Motor Vehicle and Parts Dealer,2500000.0
+5289,8287,terminal manager,11728,Transportation and Warehousing,Port and Harbor Operations,852000.0
+5318,8335,event coordinator,3382,Technology,Software as a Service (SaaS) Development,432000.0
+5322,8339,consulting analyst,2079,Professional Services,Management Consulting,250000.0
+5405,8471,finance specialist,3618,Government,World Bank,1320000.0
+5406,8472,credit analyst,2369,Finance and Insurance,Loan Servicing,840000.0
+5449,8559,accounting director,167,Engineering and Sciences,Business Process Outsourcing,110000.0
+5460,8571,executive producer,3446,Media and Publishing,Post Production Services,1300000.0
+5464,8577,electrical engineer,3205,Manufacturing,"Power, Distribution, and Specialty Transformer Manufacturing",1200000.0
+5469,8583,electrical inspector,3211,Energy and Utilities,Electric Power Distribution,307300.0
+5496,8620,office administrator,6865,Government,Local Government,966000.0
+5581,8759,market intelligence analyst,6438,Engineering and Sciences,Business Process Outsourcing,395000.0
+5589,8773,purchasing manager,8131,Energy and Utilities,Energy or Utilities,3500000.0
+5648,8868,sales support specialist,8943,Finance and Insurance,Financial Services,531054.0
+5675,8904,warehouseman,12216,Wholesale Trade,"Animal Feed, Wholesale",237000.0
+5682,8912,construction engineer,2052,Manufacturing,Food and Beverage Manufacturing,700000.0
+5743,9027,video producer,12146,Media and Publishing,Media Network,1500000.0
+5766,9058,client support specialist,1812,Professional Services,Customer Service Management Solutions,396000.0
+5804,9161,infrastructure analyst,5217,Finance and Insurance,Financial Services,416000.0
+5818,9201,customer service agent,2579,Engineering and Sciences,Biotechnology Research and Development,600000.0
+5830,9215,digital marketing associate,2998,Professional Services,Advertising Agency,494000.0
+5859,9268,chief commercial officer,1729,Professional Services,Human Resources (HR) Consulting Services,10113400.0
+5861,9275,associate product manager,907,Technology,Telecommunications,1080000.0
+5902,9335,purchasing specialist,8135,Manufacturing,Pharmaceutical Manufacturing,700000.0
+5903,9336,purchasing coordinator,8127,Manufacturing,Automotive Manufacturing,307200.0
+5904,9337,structural engineer,10872,Energy and Utilities,Renewable Energy Power Generation,960000.0
+5905,9341,financial controller,3643,Manufacturing,Food Manufacturing,5400000.0
+5940,9394,procurement supervisor,7662,Retail and Customer Service,Retail Pharmacy or Drugstore,720000.0
+5952,9413,campaign manager,1551,Nonprofits,Environmental Organization,2340000.0
+5955,9416,call center manager,1545,Technology,Telecommunications,5400000.0
+5964,9429,deputy general manager,2898,Technology,Information Technology (IT) Services,2500000.0
+5973,9447,senior programmer analyst,9814,Technology,Financial Services Software Development,2200000.0
+6045,9591,digital producer,3010,Technology,Web Development,900000.0
+6059,9637,service delivery manager,10159,Technology,Software Services,2770000.0
+6069,9652,process improvement manager,7566,Finance and Insurance,Insurance and Financial Services,5400000.0
+6077,9665,facilities coordinator,3493,Real Estate,Real Estate Property Management,35000.0
+6125,9777,writer,12352,Professional Services,Consulting,620000.0
+6131,9791,network administrator,6770,Technology,Internet Service Provider (ISP),1012500.0
+6141,9803,junior data analyst,5796,Retail and Customer Service,"e-Commerce, Business to Consumer (B2C)",400000.0
+6144,9808,sales account executive,8854,Engineering and Sciences,Business Process Outsourcing,420000.0
+6165,9845,user experience designer,12049,Technology,Information Technology (IT) Services,780000.0
+6169,9851,training specialist,11881,Professional Services,Legal Services,744000.0
+6185,9881,senior recruiter,9855,Technology,Information Technology (IT) Services,1200000.0
+6194,9896,senior java developer,9598,Construction,Building Automation System Installation,2760000.0
+6223,9955,solutions engineer,10495,Engineering and Sciences,Business Process Outsourcing,1956000.0
+6229,9974,utilization review nurse,12058,Engineering and Sciences,Business Process Outsourcing,480000.0
+6230,9975,staff nurse,10819,Transportation and Warehousing,Cruise Line,900000.0
+6240,9996,senior quality engineer,9848,Technology,Software Development,600000.0
+6251,10019,drug safety associate,3141,Manufacturing,Pharmaceutical Manufacturing,476000.0
+6278,10072,sales and marketing manager,8874,Construction,Fire Alarm System Installation,2500000.0
+6284,10091,assistant store manager,734,Retail and Customer Service,Retail Pharmacy or Drugstore,208000.0
+6285,10092,assistant restaurant manager,730,Agencies and Consultancies,Retail Corporate Office,220000.0
+6289,10099,brand specialist,1272,Finance and Insurance,Financial Services,1080000.0
+6324,10153,technology architect,11655,Finance and Insurance,Banking,2400000.0
+6325,10165,desktop support specialist,2949,Wholesale Trade,"e-Commerce, Business to Business (B2B)",672000.0
+6326,10176,senior systems engineer,10028,Wholesale Trade,"Fast-moving Consumer Goods, Wholesale",3286000.0
+6346,10218,teacher assistant,11303,Education,Education,815400.0
+6366,10272,data entry specialist,2759,Transportation and Warehousing,"Shipping, Transportation, Warehousing, or Logistics",720000.0
+6389,10322,software consultant,10362,Professional Services,Consulting,1800000.0
+6412,10361,director of operations,3061,Manufacturing,Semiconductor Chip Manufacturing,5000000.0
+6419,10376,chief pharmacist,1742,Wholesale Trade,Wholesale Distribution,120000.0
+6444,10429,operations team leader,7075,Finance and Insurance,Investment Banking,952000.0
+6464,10458,merchandising assistant,6648,Retail and Customer Service,Department Store,276000.0
+6482,10484,customer care executive,2468,Retail and Customer Service,"Cosmetics, Beauty Supplies or Perfume Store",803400.0
+6487,10494,training supervisor,11883,Finance and Insurance,Health Insurance,888000.0
+6491,10508,software programmer,10448,Technology,Entertainment or Video Game Software Development,2000000.0
+6495,10513,employee relations manager,3252,Professional Services,Call Center,1000000.0
+6503,10525,medical transcriptionist,6626,Technology,Information Technology (IT) Services,435000.0
+6540,10627,food server,3734,Accommodation and Food Services,Casino and Resort,240000.0
+6544,10640,help desk technician,4324,Professional Services,Online Classified Advertisements,336000.0
+6556,10675,relationship manager,8601,Finance and Insurance,Private Bank,1050000.0
+6578,10729,import coordinator,5076,Transportation and Warehousing,"Shipping, Transportation, Warehousing, or Logistics",120000.0
+6582,10745,territory sales manager,11738,Manufacturing,Food and Beverage Manufacturing,2400000.0
+6586,10754,workforce management analyst,12328,Finance and Insurance,Health Insurance,1110000.0
+6600,10785,data science manager,2798,Technology,Network and Communications Services,2000000.0
+6608,10801,software specialist,10464,Technology,Information Technology (IT) Services,1157000.0
+6631,10839,retail sales assistant,8762,Finance and Insurance,Banking,240000.0
+6633,10842,regulatory affairs associate,8591,Wholesale Trade,"Medical Devices, Wholesale",600000.0
+6634,10843,hospital pharmacist,4363,Health Care,Hospital,283060.0
+6641,10887,travel consultant,11939,Finance and Insurance,Financial Services,429000.0
+6724,11084,software analyst,10357,Technology,Software Development,624000.0
+6729,11105,quality manager,8263,Transportation and Warehousing,"Shipping, Transportation, Warehousing, or Logistics",1680000.0
+6746,11130,materials engineer,6572,Manufacturing,Manufacturing,420000.0
+6772,11175,administrative supervisor,309,Wholesale Trade,"Industrial Machinery or Equipment, Wholesale",480000.0
+6798,11229,web specialist,12258,Manufacturing,Manufacturing,873600.0
+6803,11242,operations director,6993,Professional Services,Human Resources (HR) Consulting Services,6397055.0
+6806,11245,quality assurance supervisor,8211,Education,Education,768000.0
+6956,11659,security analyst,9183,Technology,Enterprise Resource Planning (ERP) Software Development,1400000.0
+7021,11797,strategy consultant,10868,Professional Services,Architectural Services,2400000.0
+7044,11870,senior sap consultant,9893,Retail and Customer Service,Retail,2400000.0
+7076,11943,corporate trainer,2290,Finance and Insurance,Credit Card Merchant Services,671905.0
+7097,11994,customer support specialist,2682,Professional Services,"Marketing, Advertising, and Media Management",600000.0
+7104,12001,communications associate,1957,Finance and Insurance,Financial Services,600000.0
+7167,12158,corporate account manager,2208,Manufacturing,Cleaning Products Manufacturing,2400000.0
+7206,12259,assistant principal,715,Agriculture and Forestry,Agriculture,360000.0
+7240,12331,revenue analyst,8777,Transportation and Warehousing,Commercial Aviation or Airline,918000.0
+7296,12460,maintenance technician,6234,Government,Government,696000.0
+7301,12465,senior application developer,9271,Engineering and Sciences,Business Process Outsourcing,548600.0
+7305,12472,c# developer,1522,Technology,Information Technology (IT) Services,720000.0
+7333,12520,web programmer,12255,Real Estate,Real Estate Property Management,450000.0
+7347,12547,caregiver,1592,Health Care,Medical Office,60000.0
+7351,12552,application support analyst,502,Professional Services,"Marketing, Advertising, and Media Management",1040000.0
+7355,12558,salesforce administrator,8954,Manufacturing,Manufacturing,1608000.0
+7379,12601,php web developer,7339,Nonprofits,Social Services,704604.0
+7409,12662,implementation specialist,5073,Professional Services,Hotel Management,800000.0
+7413,12673,healthcare recruiter,4315,Finance and Insurance,Health Insurance,180000.0
+7414,12674,business development associate,1369,Technology,Financial Services Software Development,660000.0
+7448,12774,social media manager,10348,Professional Services,Multichannel Marketing,715000.0
+7465,12823,travel agent,11937,Professional Services,Travel and Hospitality Services,180000.0
+7496,12890,senior mobile developer,9710,Technology,Software as a Service (SaaS) Development,576000.0
+7511,12925,medical coder,6614,Health Care,Medical Office,1000000.0
+7529,12970,technology manager,11688,Finance and Insurance,Banking,1200000.0
+7550,13027,underwriting assistant,12003,Finance and Insurance,Property and Casualty Insurance,250000.0
+7578,13090,administrative coordinator,299,Real Estate,Real Estate,480000.0
+7649,13270,ui developer,11993,Engineering and Sciences,Information Technology (IT) Consulting,1000000.0
+7665,13305,clinical pharmacist,1823,Manufacturing,Pharmaceutical Manufacturing,500000.0
+7681,13359,technical analyst,11454,Transportation and Warehousing,Marine Cargo Handling,1008000.0
+7711,13414,baker,1146,Manufacturing,Food and Beverage Manufacturing,360000.0
+7734,13472,technical support supervisor,11627,Professional Services,Business Consulting,1040000.0
+7772,13561,cashier,1613,Finance and Insurance,Savings Bank,372000.0
+7810,13645,test analyst,11741,Technology,Information Technology (IT) Systems Design or Integration,800000.0
+7814,13662,script writer,9151,Engineering and Sciences,Business Process Outsourcing,216000.0
+7826,13697,loan processor,6151,Finance and Insurance,Banking,530000.0
+7827,13701,technical delivery manager,11485,Professional Services,Travel or Hotel Reservation Services,1520000.0
+7835,13714,financial analysis manager,3632,Energy and Utilities,Energy or Utilities,1711125.0
+7838,13718,investment officer,5426,Finance and Insurance,Banking,2800000.0
+7852,13738,concierge,2041,Accommodation and Food Services,Hotel,400000.0
+7890,13804,policy analyst,7396,Education,Education,293940.0
+7895,13814,asset protection specialist,592,Technology,Telecommunications,462000.0
+7896,13816,security officer,9191,Finance and Insurance,Financial Services,900000.0
+7919,13858,product analyst,7671,Technology,Software as a Service (SaaS) Development,684000.0
+7929,13875,personal banker,7292,Finance and Insurance,Banking,400000.0
+7947,13917,account coordinator,56,Professional Services,Creative Design,300000.0
+7958,13932,collections officer,1916,Finance and Insurance,Banking,450000.0
+8018,14043,senior test engineer,10097,Finance and Insurance,Banking,1274000.0
+8020,14047,compliance analyst,2000,Technology,Software as a Service (SaaS) Development,1170000.0
+8062,14118,change management specialist,1682,Technology,Information Technology (IT) Services,840000.0
+8086,14158,data scientist,2801,Wholesale Trade,"Dairy Products (except Dried or Canned), Wholesale",3600000.0
+8149,14273,telemarketer,11709,Professional Services,Consulting,288000.0
+8153,14282,research officer,8702,Energy and Utilities,Renewable Energy Power Generation,570000.0
+8181,14322,sales consultant,8894,Professional Services,Credit Bureau,4800000.0
+8208,14386,professional services consultant,7818,Professional Services,Consulting,515000.0
+8276,14483,training officer,11877,Finance and Insurance,Banking,808800.0
+8319,14575,technical architect,11463,Technology,Software Development,3300000.0
+8335,14604,assistant editor,620,Finance and Insurance,Financial Services,523202.0
+8336,14605,reporter,8648,Media and Publishing,Media Network,204000.0
+8337,14607,medical writer,6629,Engineering and Sciences,Industrial Technologies Research and Development,960000.0
+8351,14642,strategic sourcing specialist,10864,Manufacturing,Food Manufacturing,793000.0
+8396,14741,data engineer,2747,Professional Services,"Marketing, Advertising, and Media Management",2400000.0
+8455,14866,senior internal auditor,9575,Accommodation and Food Services,Casino and Resort,1478462.0
+8466,14888,senior compliance specialist,9385,Finance and Insurance,Investment Holding Company,2000000.0
+8467,14891,sales officer,8924,Finance and Insurance,"Trust, Fiduciary, and Custody Activities",706200.0
+8468,14894,bank officer,1150,Finance and Insurance,Private Bank,677000.0
+8469,14895,accounting officer,173,Professional Services,Interior Design Services,1200000.0
+8494,14934,consulting associate,2080,Professional Services,Consulting,192000.0
+8501,14945,data management analyst,2772,Retail and Customer Service,Retail,540000.0
+8513,14970,market research analyst,6442,Education,Education,320000.0
+8528,15004,chief risk officer (cro),1746,Finance and Insurance,Banking,72000.0
+8534,15010,credit risk manager,2405,Finance and Insurance,Banking,1000000.0
+8538,15016,information systems auditor,5175,Technology,Information Technology (IT) Services,416400.0
+8552,15034,market manager,6440,Professional Services,Travel or Hotel Reservation Services,350000.0
+8553,15043,software quality engineer,10463,Engineering and Sciences,Information Technology (IT) Consulting,858000.0
+8562,15054,medical resident,6623,Health Care,Health Care,180000.0
+8686,15283,financial planning analyst,3658,Manufacturing,Mining Machinery and Equipment Manufacturing,1200000.0
+8693,15301,corporate counsel,2232,Manufacturing,Manufacturing,2080000.0
+8694,15302,corporate attorney,2217,Transportation and Warehousing,Transportation,2561000.0
+8722,15362,senior solutions architect,9951,Technology,Information Technology (IT) Services,3439223.0
+8761,15430,regulatory affairs specialist,8593,Manufacturing,Food and Beverage Manufacturing,780000.0
+8782,15468,logistics assistant,6176,Technology,Information Technology (IT) Services,300000.0
+8794,15499,loan officer,6150,Finance and Insurance,"Mortgage Lending, Loans, or Credit Products",567000.0
+8799,15511,property manager,8076,Manufacturing,Semiconductor Manufacturing,1300000.0
+8809,15531,ios developer,5440,Retail and Customer Service,"e-Commerce, Business to Consumer (B2C)",1020000.0
+8820,15548,assistant business manager,613,Finance and Insurance,Banking,432000.0
+8822,15551,oracle developer,7101,Technology,Information Technology (IT) Services,1242500.0
+8892,15665,client services associate,1805,Technology,Information Services,480000.0
+8905,15698,executive director,3433,Professional Services,Consulting,14000000.0
+8951,15792,help desk supervisor,4323,Manufacturing,Automotive Systems and Components Manufacturing,660000.0
+8952,15793,help desk associate,4322,Engineering and Sciences,Business Process Outsourcing,250000.0
+8970,15856,senior research analyst,9881,Professional Services,Marketing Agency,720000.0
+8974,15867,front office supervisor,3813,Accommodation and Food Services,Hotels or Motels (except Casino Hotels),264000.0
+8976,15869,front desk agent,3802,Accommodation and Food Services,Hotel,360000.0
+9023,15953,passenger service agent,7221,Transportation and Warehousing,Airline or Aviation Fixed-Base Operator (FBO),126000.0
+9049,15986,business development assistant,1368,Education,Professional and Management Development Training,300000.0
+9053,15993,investment analyst,5424,Finance and Insurance,Securities Brokerage,653250.0
+9074,16029,communications assistant,1956,Media and Publishing,Non-Profit Health Information Foundation,540000.0
+9127,16132,digital marketing manager,3002,Miscellaneous,"Professional, Scientific, and Technical Services",2016000.0
+9175,16208,equity analyst,3355,Professional Services,Market Research,840000.0
+9192,16251,senior applications engineer,9278,Technology,Software as a Service (SaaS) Development,1190000.0
+9244,16338,pharmacy assistant,7315,Health Care,Hospital,300000.0
+9359,16590,associate auditor,821,Finance and Insurance,Investment Holding Company,336000.0
+9364,16605,senior project engineer,9821,Professional Services,Consulting,485328.0
+9466,16741,logistics specialist,6188,Agriculture and Forestry,Agriculture,840000.0
+9470,16745,chief audit executive,1724,Manufacturing,Building Materials Manufacturing,3215000.0
+9529,16831,art director,573,Technology,Internet Software Services,720000.0
+9550,16863,statistician,10833,Technology,"Data Processing, Hosting or Related Services",604956.0
+9569,16896,labor relations supervisor,5943,Technology,Software Development,456000.0
+9587,16927,junior brand manager,5785,Professional Services,Marketing and Distribution Center,300000.0
+9607,16958,incident manager,5103,Engineering and Sciences,Business Process Outsourcing,1200000.0
+9664,17056,network specialist,6803,Technology,Telecommunications,813892.0
+9695,17103,senior systems administrator,10022,Finance and Insurance,Insurance and Financial Services,1680000.0
+9699,17111,accounts payable clerk,210,Professional Services,Travel or Hotel Reservation Services,730000.0
+9739,17187,audit specialist,1038,Manufacturing,Manufacturing,1000000.0
+9749,17206,editor,3179,Professional Services,Business Consulting,1200000.0
+9766,17237,business intelligence specialist,1409,Professional Services,Risk Management,1040000.0
+9776,17256,events specialist,3404,Retail and Customer Service,Retail,480000.0
+9865,17416,senior credit analyst,9407,Finance and Insurance,Consumer Lending Services,1950000.0
+9927,17534,engineering supervisor,3312,Energy and Utilities,Energy or Utilities,641556.0
+10069,17754,group account director,4081,Professional Services,"Marketing, Advertising, and Media Management",2600000.0
+10082,17782,applications engineer,523,Finance and Insurance,Banking,916500.0
+10160,17908,collections manager,1915,Finance and Insurance,"Mortgage Lending, Loans, or Credit Products",1558000.0
+10170,17927,legal manager,6109,Transportation and Warehousing,Commercial Aviation or Airline,3000000.0
+10183,17946,project management officer,7980,Finance and Insurance,Mortgage Banking,912000.0
+10185,17948,project specialist,8050,Professional Services,Business Consulting,800000.0
+10187,17951,senior credit officer,9408,Finance and Insurance,Banking,900000.0
+10211,17988,project supervisor,8056,Engineering and Sciences,Civil Engineering Services,573600.0
+10214,18002,sr. network engineer,10730,Technology,Software as a Service (SaaS) Development,1680000.0
+10229,18028,digital project manager,3013,Finance and Insurance,Banking,1800000.0
+10235,18039,sap business analyst,8993,Technology,Information Technology (IT) Services,2061800.0
+10249,18062,digital marketing specialist,3003,Finance and Insurance,Financial Services,720000.0
+10260,18089,information security manager,5158,Finance and Insurance,Health Insurance,2471879.0
+10262,18095,web content specialist,12234,Transportation and Warehousing,Transportation,455000.0
+10327,18209,finance clerk,3596,Manufacturing,Automotive Manufacturing,163500.0
+10328,18210,corporate communications specialist,2228,Transportation and Warehousing,"Shipping, Transportation, Warehousing, or Logistics",1800000.0
+10459,18456,product development supervisor,7693,Professional Services,Marketing and Distribution Center,480000.0
+10481,18489,machine learning engineer,6210,Technology,Information Technology (IT) Services,910000.0
+10504,18527,3d artist,29,Technology,Software Development,910000.0
+10509,18543,management consultant,6252,Retail and Customer Service,Trading Post,3600000.0
+10531,18577,pricing manager,7468,Engineering and Sciences,Biotechnology Research and Development,840000.0
+10581,18670,fashion designer,3532,Retail and Customer Service,Retail,1620000.0
+10587,18677,customer experience manager,2508,Finance and Insurance,Financial Services,1140000.0
+10595,18687,creative director,2353,Technology,Mobile Applications,3900000.0
+10675,18826,business operations manager,1427,Engineering and Sciences,Information Technology (IT) Consulting,1634000.0
+10691,18850,custodian,2449,Health Care,Medical Office,175000.0
+10704,18871,personal assistant,7291,Engineering and Sciences,Engineering Services,374926.0
+10741,18942,billing coordinator,1191,Finance and Insurance,Financial Services,360000.0
+10781,19001,senior data scientist,9438,Finance and Insurance,Insurance and Financial Services,2275000.0
+10803,19033,cyber security engineer,2696,Engineering and Sciences,Computer or Network Security Services,924000.0
+10830,19088,editorial assistant,3183,Government,International Affairs,540000.0
+10842,19106,strategic planner,10854,Professional Services,Advertising Agency,276000.0
+10845,19109,senior operations analyst,9725,Professional Services,Advertising Agency,960000.0
+10862,19139,president and ceo,7456,Professional Services,Industrial Packaging and Services,12000000.0
+10876,19159,communications specialist,1964,Engineering and Sciences,Logistics Services,1800000.0
+10917,19233,member of the board of directors,6633,Government,Government,6000000.0
+10963,19336,test manager,11762,Manufacturing,"Telecommunication, Computer, and Electronic Product Manufacturing",1134000.0
+10987,19372,client services coordinator,1806,Technology,Software Services,535000.0
+11000,19394,change management consultant,1679,Professional Services,Call Center,348000.0
+11001,19397,test technician,11767,Manufacturing,Semiconductor Manufacturing,350000.0
+11024,19432,bid manager,1170,Technology,Software Services,2600000.0
+11026,19435,headhunter,4304,Professional Services,Human Resources (HR) Consulting Services,600000.0
+11061,19493,maintenance engineer,6221,Manufacturing,Manufacturing,1000000.0
+11099,19562,business intelligence consultant,1405,Technology,Health Care Information Technology (IT) Services,660000.0
+11125,19599,sap project manager,9055,Engineering and Sciences,Information Technology (IT) Consulting,1400000.0
+11127,19601,technical project manager,11516,Professional Services,Credit Bureau,1500000.0
+11140,19618,actuarial assistant,262,Finance and Insurance,Insurance and Financial Services,401000.0
+11156,19654,senior technical recruiter,10082,Technology,Internet Gaming Website,900000.0
+11161,19666,medical biller,6612,Engineering and Sciences,Business Process Outsourcing,360000.0
+11167,19679,operations support manager,7066,Engineering and Sciences,Business Process Outsourcing,580800.0
+11225,19786,sales operations analyst,8925,Government,Human Resource (HR) Program Administration,362400.0
+11228,19791,data processor,2787,Professional Services,Market Research,305000.0
+11229,19792,data architect,2735,Finance and Insurance,Banking,3500000.0
+11244,19823,proposal manager,8082,Technology,Information Technology (IT) Services,1000822.0
+11260,19846,agile coach,346,Finance and Insurance,Banking,3071000.0
+11263,19852,senior systems developer,10026,Technology,Information Technology (IT) Systems Design or Integration,1053000.0
+11279,19880,firmware engineer,3691,Energy and Utilities,Electric Power Distribution,960000.0
+11285,19886,senior purchasing manager,9835,Construction,Construction,852000.0
+11292,19895,sap basis administrator,8981,Engineering and Sciences,Information Technology (IT) Consulting,942500.0
+11306,19919,unix system administrator,12029,Engineering and Sciences,Business Process Outsourcing,613500.0
+11311,19934,data center manager,2737,Technology,Telecommunications,2148000.0
+11351,19999,ux designer,12062,Engineering and Sciences,Business Process Outsourcing,960000.0
+11407,20104,administrative specialist,307,Energy and Utilities,Fossil Fuel Power Generation,360000.0
+11408,20106,medical records specialist,6622,Health Care,Emergency Medical Services,180000.0
+11421,20129,user experience architect,12048,Technology,Telecommunications,1320000.0
+11426,20136,senior technical writer,10092,Professional Services,Auditing and Business Advisory Services,1000000.0
+11544,20349,implementation analyst,5065,Technology,Software as a Service (SaaS) Development,600000.0
+11556,20380,behavior therapist,1162,Education,Education,504000.0
+11557,20385,duty manager,3147,Technology,Information Technology (IT) Services,720000.0
+11581,20422,junior financial analyst,5815,Professional Services,Consulting,950000.0
+11600,20459,quality control inspector,8235,Energy and Utilities,Energy or Utilities,1526400.0
+11616,20497,junior sap consultant,5863,Technology,Information Technology (IT) Systems Design or Integration,420000.0
+11621,20512,associate editor,854,Media and Publishing,Media Network,345768.0
+11661,20580,salesforce developer,8958,Professional Services,Call Center,1650000.0
+11744,20740,senior data engineer,9431,Finance and Insurance,Banking,2000000.0
+11815,20865,service desk manager,10194,Professional Services,Help Desk and Call Center Outsourcing,1308000.0
+11880,21000,finance assistant,3593,Technology,Online Game Publishing,900000.0
+11909,21048,service manager,10220,Engineering and Sciences,Business Process Outsourcing,960000.0
+11915,21061,visual designer,12164,Health Care,Health Care,700000.0
+11916,21062,junior art director,5759,Professional Services,Advertising Agency,324000.0
+11937,21092,linux system administrator,6143,Transportation and Warehousing,"Shipping, Transportation, Warehousing, or Logistics",1560000.0
+11958,21146,learning facilitator,6081,Engineering and Sciences,Business Process Outsourcing,790000.0
+11962,21152,farm manager,3531,Agriculture and Forestry,Agribusiness,840000.0
+12092,21381,linux systems administrator,6145,Finance and Insurance,Insurance and Financial Services,1200000.0
+12179,21536,actuarial analyst,261,Professional Services,Consulting,1700000.0
+12204,21587,equipment engineer,3354,Manufacturing,Semiconductor Chip Manufacturing,384000.0
+12214,21610,senior security consultant,9903,Technology,Telecommunications,2000000.0
+12236,21668,associate business analyst,824,Technology,Software Development,264000.0
+12242,21691,senior account executive,9213,Engineering and Sciences,Information Technology (IT) Consulting,2730000.0
